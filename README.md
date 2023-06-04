@@ -7,3 +7,6 @@ I use JavaScript technologies.
 Node JS, React JS, Vue JS, React Native, Electron JS, and others.
 
 Stay well with love.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
